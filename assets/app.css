@@ -130,3 +130,8 @@ Bookshelf Label
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
 }
+
+.flex-grow-stacked {
+  flex-direction: column;
+  align-items: flex-start;
+   }
